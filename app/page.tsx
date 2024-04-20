@@ -22,8 +22,7 @@ export default function Page() {
             <strong>Welcome to Acme.</strong> This is a modified example of the{' '}  
             <a href="https://nextjs.org/learn/" className="text-blue-500">
                Next.js Learn Course
-            </a>
-            created by Vercel made by HackTTC to learn Next.js.
+            </a>{' '} to semi-grok Next-JS.
 
           </p>
           <Link
